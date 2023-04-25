@@ -1,16 +1,15 @@
 <html>
-
 <center>
 <img src="https://drive.google.com/uc?id=1clTfcA2IXY3qpaSLbAODT8AUzdCHZ-H-" 
      width="1000" 
      height="auto" />
 </img>
-
-
 <body bgcolor="white">
 <body text="black">
 
-<center>
+<center><br><br>
+<br><br>
+
 bookings, press, inquiries:<br><br>
 
 <a href="mailto:contact@diskrubble.com">DJ SPEEDSICK</a><br><br>
